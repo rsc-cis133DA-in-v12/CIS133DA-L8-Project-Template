@@ -26,9 +26,9 @@ You will also need to move your internal styles so that they can be edited exter
     - Remove any remaining HTML for the internal stylesheet.
     - Save your changes.
 
-## Create the Home Page
+## Create the About Page
 
-1. Save a copy of the **template.html** file to your Lesson 8 folder as: **about.html**
+1. Save a copy of the template file to your Lesson 8 folder as: **about.html**
 0. In the HEAD section, update the **multi-line comment** to add your section number and the lesson number.
 0. Within the HEAD section, update the **metadata** with the following:
     - Change the title to: **About Us**
@@ -40,6 +40,7 @@ You will also need to move your internal styles so that they can be edited exter
     - This will only be used once in your code, therefore use an appropriate unique identity.
 0. Within the navigation bar, do the following:
     - Apply a class to the "About" link element called: **active**.
+    - Apply a class to the list item containing the "Book an Appointment" link called: **right**
 0. Within the main section, create an **aside** element.
 0. Within the aside element, do the following:
     - Display the image of the city of Phoenix provided to you in the repo.
@@ -58,13 +59,19 @@ You will also need to move your internal styles so that they can be edited exter
 This is an example of what the project should look like at this point in the lesson.
 ![Screenshot of Example Project](screenshots/e4rCPCVpID.png)
 
-## Style the About page
+## Style the About Page
 
 1. If necessary, open the external stylesheet.
+0. Add a multi-lined comment that displays:
+    > <code>Author:<br>Course:<br>Lesson:</code>
+    - Insert your MEID as the author, your course name (CIS133DA) and section number for the course, and add the current lesson number.
 0. In the Header Styles, adjust the URL to the background image so that the image displays. **HINT:** The URL is relative to the location of the stylesheet - not the web page. Try reviewing relative URLs in **Lesson 6, Background Images**.
 0. In the Navigation Bar styles, style the active class you created in this lesson to:
     - Add a background color using your desired color method.
     > **TIP:** This style should make it so that the page the user is actively on is highlighted.
+0. In the Navigation Bar styles, style the right class you created in this lesson to:
+    - Add a background color using your desired color method.
+    - Float the element to the right.
 0. Style the unordered list within the navigation bar to: 
     - Fix the navigation bar to the top of the page.
     - Change the width to 100%.
@@ -88,6 +95,9 @@ This is an example of what the project should look like at this point in the les
     - Fill the full width of the container. **HINT:** Use a width value that will fill the parent element.
     - Define the height to 200px.
     - Adjust the size of the image so that the image will clip to fit to the size of the container.
+     - Change the transparency of the image to 60% opacity.
+0. Style the hover state of the images to:
+    - Change the transparency of the image to 100% opacity.
 0. Style the paragraphs within the aside section to:
     - Remove the margin on all sides.
     - Set the text color to gray using your desired color method.
@@ -99,3 +109,17 @@ This is an example of what the project should look like at this point in the les
  ## Example Project
  Below is a rendering of an example project, your web page may not appear the exact same.
 ![Screenshot of Example Project](screenshots/BomRV7Qdun.png)
+
+## Submit the Project
+Before you submit your project:
+1. Save your files and apply any final commits to your work.
+0. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
+0. Verify that all files appear on GitHub.
+
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-computer-technology](https://github.com/rsc-computer-technology). You can bookmark the page for future reference. 
+0. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
+0. In the comment field, 
+   - Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
+   - Put a note to your instructor that the assignment is ready to grade.
+0. Click on the `Comment` button to finalize and submit your assignment to GitHub for review.
+0. Lastly, submit the Project to your **Gradebook** using the steps within **Assessing Your Learning** in Lesson 8.
