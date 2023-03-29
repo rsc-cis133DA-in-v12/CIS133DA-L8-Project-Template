@@ -29,35 +29,34 @@ You will also need to move your internal styles so that they can be edited exter
 ## Create the About Page
 
 1. Save a copy of the template file to your Lesson 8 folder as: **about.html**
-0. In the HEAD section, update the **multi-line comment** to add your section number and the lesson number.
-0. Within the HEAD section, update the **metadata** with the following:
-    - Change the title to: **About Us**
-    - Define the author using your first and last name.
-    - Add a minimum of **5 keywords** appropriate for the page content.
-    - Add an appropriate **description**.
-0. Within the BODY section, create a content **division** element that starts right after the opening body tag and ends before the closing body tag. **TIP:** Essentially all content that currently exists in the body should be a child element of this new division element.
-    - Apply an id to the division element called: **wrapper**
-    - This will only be used once in your code, therefore use an appropriate unique identity.
-0. Within the navigation bar, do the following:
-    - Apply a class to the "About" link element called: **active**.
-    - Apply a class to the list item containing the "Book an Appointment" link called: **right**
-0. Within the main section, create an **aside** element.
-0. Within the aside element, do the following:
-    - Display the image of the city of Phoenix provided to you in the repo.
-    - Create a caption for the image that displays: <code>Source: [Lisa Campbell](https://unsplash.com/photos/r6_My5ZpZXc)</code>
+2. In the HEAD section, update the **multi-line comment** to add your section number and the lesson number.
+3. Within the HEAD section, update the **metadata** with the following:
+    1. Change the title to: **About Us**
+    2. Define the author using your first and last name.
+    3. Add a minimum of **5 keywords** appropriate for the page content.
+    4. Add an appropriate **description**.
+4. Within the BODY section, create a content **division** element that starts right after the opening body tag and ends before the closing body tag. **TIP:** Essentially all content that currently exists in the body should be a child element of this new division element.
+    1. Apply an id to the division element called: **wrapper**
+    2. This will only be used once in your code, therefore use an appropriate unique identity.
+5. Within the navigation bar, do the following:
+    1. Apply a class to the "About" link element called: **active**.
+    2. Apply a class to the list item containing the "Book an Appointment" link called: **right**
+6. Within the main section, create an **aside** element.
+7. Within the aside element, do the following:
+    1. Display the image of the city of Phoenix provided to you in the repo.
+    2. Create a caption for the image that displays: <code>Source: [Lisa Campbell](https://unsplash.com/photos/r6_My5ZpZXc)</code>
         - Include a working link to the source provided and apply an appropriate text-level semantic tag for the caption.
             > **Link to Source:** <code>https://unsplash.com/photos/r6_My5ZpZXc</code>
-0. Within the main section, do the following:
-    - Create an **article** element to contain the second-level heading and paragraph of placeholder text.
-    - Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
-    - Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
+8. Within the main section, do the following:
+    1. Create an **article** element to contain the second-level heading and paragraph of placeholder text.
+    2. Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
+    3. Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
 
       ><code>We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies<br><br>Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.<br><br>Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!</code>
-0. Within the footer, add your MEID to the copyright and update the year, if necessary.
+9. Within the footer, add your MEID to the copyright and update the year, if necessary.
 
 ## Example Project
-This is an example of what the project should look like at this point in the lesson.
-![Screenshot of Example Project](screenshots/e4rCPCVpID.png)
+![Screenshot of example About page without CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L8-example1.png)
 
 ## Style the About Page
 
@@ -107,8 +106,7 @@ This is an example of what the project should look like at this point in the les
 0. If necessary, open the Template and About page. Compare how the changes you made to the styles appear for both pages.
 
  ## Example Project
- Below is a rendering of an example project, your web page may not appear the exact same.
-![Screenshot of Example Project](screenshots/BomRV7Qdun.png)
+![Screenshot of example About page with CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L8-example2.png)
 
 ## Submit the Project
 Before you submit your project:
