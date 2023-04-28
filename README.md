@@ -1,7 +1,7 @@
 # Lesson 8 Project
-This week, the computer company client is asking you to remove the internal CSS and use external CSS so that the colors could be easily edited by the company in the future. They’ve provided a template as a jump start for making a page they'd like to have included in their website, an About page. You will be making the About page in this lesson according to the directions provided below.
+For this project, the computer company client is asking you to remove the internal CSS and use external CSS so that colors can be easily edited by the company in the future. They’ve provided a template as a starting point for making a new page that they'd like to have included on their website, an About page. You will be making the About page in this lesson according to the directions provided below.
 
-Make sure you save and test your web page frequently this lesson, making sure that all elements within the web page are working and displaying correctly before you submit this project.
+Make sure you save and test your web page frequently throughout this lesson, including syncing it to GitHub and applying Commits. Make sure that all elements within the web page are working and displaying correctly by using the **Preview** pane in VS Code.
 
 ## Project Prep 
 1. If you haven't done so already, clone the repo to your computer within your course folder.
@@ -12,23 +12,23 @@ Make sure you save and test your web page frequently this lesson, making sure th
 
    > **TIP:** Before beginning any work on the project, read through all the steps to understand what you will be doing.
 
+<br>
 You will also need to move your internal styles so that they can be edited externally. To do this within the Explorer Pane in VS Studio Code, complete the following:
 
 1. Create a subfolder within your Lesson 8 course folder called: **css**
-    
-    > **TIP:** Review the **How-To: Create a Subfolder in VS Code** from Lesson 6, Inserting Images as a reminder for creating a subfolder.
-0. Create an external stylesheet in the CSS subfolder called: **default_style.css**
+0. Create an external stylesheet in the css subfolder called: **default_style.css**
 0. Open the **template.html** file and do the following:
     - Appropriately link the external style sheet you created in the previous step.
-    - Copy the CSS from the internal stylesheet and paste it to the external stylesheet.
+    - Move all of the internal styles to the external stylesheet.
 
-    > **TIP:** Go back to **Lesson 7, External Stylesheets** to review how-to add an external stylesheet.
+    > **TIP:** Go back to [**Lesson 7, External Stylesheets**]{https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-7-enhancing-the-look-of-web-pages-using-css/internal-and-external-style-sheets#External-Style-Sheets) to review how-to add an external stylesheet.
     - Remove any remaining HTML for the internal stylesheet.
-    - Save your changes.
+    - Preview the template.html page and make sure that all styles being applied as expected. You will need to modify the link to the background-image for the header element since your styles are now in an external stylesheet. ***Hint: the link to the image is relative to the stylesheet, not the template.html file. See the information on [Relative Links](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-6-links-lists-and-images/links#Relative-Links) from Lesson 6.***
+    - Save your changes. Sync your changes and apply a commit.
 
 ## Create the About Page
 
-1. Save a copy of the template file to your Lesson 8 folder as: **about.html**
+1. Save a copy of the template file to your Lesson 8 Repo folder as: **about.html**
 2. In the HEAD section, update the **multi-line comment** to add your section number and the lesson number.
 3. Within the HEAD section, update the **metadata** with the following:
     1. Change the title to: **About Us**
@@ -40,7 +40,7 @@ You will also need to move your internal styles so that they can be edited exter
     2. This will only be used once in your code, therefore use an appropriate unique identity.
 5. Within the navigation bar, do the following:
     1. Apply a class to the "About" link element called: **active**.
-    2. Apply a class to the list item containing the "Book an Appointment" link called: **right**
+    2. Change the link text for the third link to `Book an Appointment`.Apply a class to this item called: **right**
 6. Within the main section, create an **aside** element.
 7. Within the aside element, do the following:
     1. Display the image of the city of Phoenix provided to you in the repo.
