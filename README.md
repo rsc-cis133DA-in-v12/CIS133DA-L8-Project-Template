@@ -52,11 +52,14 @@ You will also need to move your internal styles so that they can be edited exter
     2. Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
     3. Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
 
-      ><code>We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies<br><br>Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.<br><br>Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!</code>
+       >We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies<br><br>Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.<br><br>Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!
 9. Within the footer, add your MEID to the copyright and update the year, if necessary.
+10. Your About page should look similar to the following image at this point in the project.
 
 ## Example Project
+***Screenshot of example About page without CSS***
 ![Screenshot of example About page without CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L8-example1.png)
+
 
 ## Style the About Page
 
