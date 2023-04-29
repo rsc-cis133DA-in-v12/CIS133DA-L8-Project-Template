@@ -43,11 +43,11 @@ You will also need to move your internal styles so that they can be edited exter
     2. Change the link text for the third link to `Book an Appointment`.Apply a class to this item called: **right**
 6. Within the main section, create an **aside** element.
 7. Within the aside element, do the following:
-    1. Display the image of the city of Phoenix provided to you in the repo.
-    2. Create a caption for the image that displays: <code>Source: [Lisa Campbell](https://unsplash.com/photos/r6_My5ZpZXc)</code>
+    1. Display the image of the city of Phoenix provided to you in the repo. Set the width of the image to 150px. (You will be modifying this later, but for now, this will allow you to view the image on your page.)
+    2. Create a caption for the image that displays: <code>Source: [Joe Cook](https://unsplash.com/@joecook)</code>
         - Include a working link to the source provided and apply an appropriate text-level semantic tag for the caption.
-            > **Link to Source:** <code>https://unsplash.com/photos/r6_My5ZpZXc</code>
-8. Within the main section, do the following:
+            > **Link to Source:** <code>https://unsplash.com/photos/qcofFqnGjww</code>
+8. Below the aside element, and still within the main section, do the following:
     1. Create an **article** element to contain the second-level heading and paragraph of placeholder text.
     2. Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
     3. Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
