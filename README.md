@@ -21,7 +21,7 @@ You will also need to move your internal styles so that they can be edited exter
     - Appropriately link the external style sheet you created in the previous step.
     - Move all of the internal styles to the external stylesheet.
 
-    > **TIP:** Go to [**Lesson 7, External Stylesheets**](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-7-enhancing-the-look-of-web-pages-using-css/internal-and-external-style-sheets#External-Style-Sheets) to review how to add an external stylesheet.
+      > **TIP:** Go to [**Lesson 7, External Stylesheets**](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-7-enhancing-the-look-of-web-pages-using-css/internal-and-external-style-sheets#External-Style-Sheets) to review how to add an external stylesheet.
     - Remove any remaining HTML for the internal stylesheet.
     - Preview the template.html page and make sure that all styles being applied as expected. You will need to modify the link to the background-image for the header element since your styles are now in an external stylesheet. ***Hint: the link to the image is relative to the stylesheet, not the template.html file. See the information on [Relative Links](https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-6-links-lists-and-images/links#Relative-Links) from Lesson 6.***
     - Save your changes. Sync your changes and apply a commit.
@@ -40,7 +40,7 @@ You will also need to move your internal styles so that they can be edited exter
     2. This will only be used once in your code, therefore use an appropriate unique identity.
 5. Within the navigation bar, do the following:
     1. Apply a class to the "About" link element called: **active**.
-    2. Change the link text for the third link to `Book an Appointment`.Apply a class to this item called: **right**
+    2. Change the link text for the third link to `Book an Appointment`. Apply a class to this item called: **right**
 6. Within the main section, create an **aside** element.
 7. Within the aside element, do the following:
     1. Display the image of the city of Phoenix provided to you in the repo. Set the width of the image to 150px. (You will be modifying this later, but for now, this will allow you to view the image on your page.)
@@ -52,7 +52,10 @@ You will also need to move your internal styles so that they can be edited exter
     2. Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
     3. Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
 <br>
-       `We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies<br><br>Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.<br><br>Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!`
+***
+We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies<br><br>Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.<br><br>Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!
+***
+
 9. Within the footer, add your MEID to the copyright and update the year, if necessary.
 10. Your About page should look similar to the following image at this point in the project.
 
