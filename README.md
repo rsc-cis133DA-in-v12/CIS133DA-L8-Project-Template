@@ -40,7 +40,7 @@ You will also need to move your internal styles so that they can be edited exter
     2. This will only be used once in your code, therefore use an appropriate unique identity.
 5. Within the navigation bar, do the following:
     1. Apply a class to the "About" link element called: **active**.
-    2. Change the link text for the third link to `Book an Appointment`. Apply a class to this item called: **right**
+    2. Change the link text for the third link to `Book an Appointment`. Apply a class to this menu item called: **right**. Be sure to apply the class to the list item, not just the link.
 6. Within the main section, create an **aside** element.
 7. Within the aside element, do the following:
     1. Display the image of the city of Phoenix provided to you in the repo. Set the width of the image to 150px. (You will be modifying this later, but for now, this will allow you to view the image on your page.)
@@ -50,11 +50,13 @@ You will also need to move your internal styles so that they can be edited exter
 8. Below the aside element, and still within the main section, do the following:
     1. Create an **article** element to contain the second-level heading and paragraph of placeholder text.
     2. Change the second-level heading to display: **Welcome to Computer Systems Incorporated**
-    3. Remove the placeholder text and replace it with paragraphs that provides the user with the following information: 
+    3. Remove the placeholder text and replace it with the following three paragraphs: 
 
 ***
 We are a small but growing computer repair service company that opened our doors in Spring 2022. We are honored to service both home and business users within the greater Phoenix area and our technicians are experienced in servicing computers for both small and large companies.
+
 Whether its for home or business computer systems, our technicians are pros at cleaning physical hardware, removing malware and providing anti-virus software solutions, as well as providing computer repair or upgrades at your convenience.
+
 Computer Systems Inc. are experts at selecting the best hardware for your business or home on time and within budget, we look forward to your service!
 ***
 
@@ -72,12 +74,14 @@ Computer Systems Inc. are experts at selecting the best hardware for your busine
 0. Add a multi-lined comment that displays:
     > <code>Author:<br>Course:<br>Lesson:</code>
     - Insert your MEID as the author, your course name (CIS133DA) and section number for the course, and add the current lesson number.
-0. In the Header Styles, adjust the URL to the background image so that the image displays. **HINT:** The URL is relative to the location of the stylesheet - not the web page. Try reviewing relative URLs in **Lesson 6, Background Images**.
-0. In the Navigation Bar styles, style the active class you created in this lesson to:
+0. In the Header Styles, confirm that the background image displays. If needed, adjust the URL to be relative to the location of the stylesheet - not the web page.
+0. In the Navigation Bar styles, add an appropriate style to style the active class you created in this project. The style should:
     - Add a background color using your desired color method.
+    - Add a font color, if needed, to coordinate with the new background color.
     > **TIP:** This style should make it so that the page the user is actively on is highlighted.
-0. In the Navigation Bar styles, style the right class you created in this lesson to:
+0. In the Navigation Bar styles, add an appropriate style to style the right class you created in this project. The style should:
     - Add a background color using your desired color method.
+    - Add a font color, if needed, to coordinate with the new background color.
     - Float the element to the right.
 0. Style the unordered list within the navigation bar to: 
     - Fix the navigation bar to the top of the page.
