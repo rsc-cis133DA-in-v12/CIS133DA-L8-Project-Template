@@ -12,6 +12,10 @@ Make sure you save and test your web page frequently throughout this lesson, inc
 
    > **TIP:** Before beginning any work on the project, read through all the steps to understand what you will be doing.
 
+***
+**IMPORTANT: Be sure to Save and Sync your work to GitHub regularly, applying appropriate Commit comments as you go.**
+***
+
 <br>
 You will also need to move your internal styles so that they can be edited externally. To do this within the Explorer Pane in VS Studio Code, complete the following:
 
@@ -124,8 +128,8 @@ Computer Systems Inc. are experts at selecting the best hardware for your busine
 Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
 
    > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
-1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-2. **Sync** the changes and apply a **Commit**.
+1. Review your work and make any necessary updates. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
 3. Verify that all files appear on GitHub.
 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
