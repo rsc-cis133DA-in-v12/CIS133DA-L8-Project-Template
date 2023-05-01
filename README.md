@@ -87,20 +87,20 @@ Computer Systems Inc. are experts at selecting the best hardware for your busine
     - Add a background color using your desired color method.
     - Add a font color, if needed, to coordinate with the new background color.
     - Float the element to the right.
-0. Style the unordered list within the navigation bar to: 
+0. In the Navigation Bar styles, add an appropriate style to adjust the size and position of the navigation menu bar: 
     - Fix the navigation bar to the top of the page.
     - Change the width to 100%.
-    > **TIP:** Notice how the navigation bar overlaps the content at the top of the page. Learn how to fix this in the next step.
-0. Below the body styles, style the wrapper you created in this lesson to:
+    > **TIP:** Notice how the navigation bar overlaps some of the header image at the top of the page. Learn how to fix this in the next step.
+0. In the Body styles, add an appropriate style to style the wrapper you created in this lesson to:
     - Add a light gray background color using your desired color method.
     - Add a top margin of 50px. 
-    > **TIP:** Now you should notice that the navigation has less overlapping to the wrapper content. This is because of the margin you added, which moves your entire wrapper down 50px.
+    > **TIP:** Now you should notice that the navigation has less overlapping of the header content. This is because of the margin you added, which moves your entire wrapper down 50px.
 0. Within the main styles, style the main section to:
     - Define the width of the element to 900px.
     - Utilize an appropriate box-sizing value to automatically subtract any padding applied to the element.
     - Center the element on the page. **HINT:** The text alignment should not be affected, and remain at default (left).
 0. Within the main styles, style the aside section to:
-    - Apply a light gray background color using your desired color method.
+    - Apply a medium gray background color using your desired color method.
     - Define the width of the element to 30% of the container.
     - Utilize an appropriate box-sizing value to automatically subtract any padding applied to the element.
     - Add 10px of padding to all sides.
