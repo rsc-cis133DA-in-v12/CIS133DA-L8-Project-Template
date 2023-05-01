@@ -122,6 +122,7 @@ Computer Systems Inc. are experts at selecting the best hardware for your busine
 0. If necessary, open the Template and About page. Compare how the changes you made to the styles appear for both pages.
 
  ## Example Project
+***Screenshot of example About page with CSS - your colors may be slightly different.***
 ![Screenshot of example About page with CSS](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L8-example2.png)
 
 ## Submit the Project
