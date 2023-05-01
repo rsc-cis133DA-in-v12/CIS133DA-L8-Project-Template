@@ -118,6 +118,7 @@ Computer Systems Inc. are experts at selecting the best hardware for your busine
     - Set the text color to gray using your desired color method.
 0. Style the links within the aside section to:
     - Set the text color using your desired color method.
+0. For the body style, add a margin of 0.
 0. Save your changes. 
 0. If necessary, open the Template and About page. Compare how the changes you made to the styles appear for both pages.
 
